@@ -1,6 +1,6 @@
 # HeroEmu
 
-Just a specialized IR remote for use in a spider-themed dark ride found in a very popular theme park. See https://furrtek.org/?a=wslinger for details.
+Just a specialized IR remote for use in the Spider-Man W.E.B. Adventure dark ride at Disney Adventure World and Disney California Adventure. See https://furrtek.org/?a=wslinger for details.
 
 Can be converted to a simple Flipper Zero IR file. I don't have one for testing so that's up to you.
 
